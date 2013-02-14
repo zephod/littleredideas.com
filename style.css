@@ -26,3 +26,6 @@ a:hover {
 .main p {
   font-size: 15px;
 }
+.main li {
+  height: 22px;
+}
