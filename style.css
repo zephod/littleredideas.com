@@ -1,0 +1,28 @@
+body {
+  font-family: Helvetica Neue;
+  font-size: 13px;
+}
+a {
+  color: #e7312a;
+  text-decoration: none;
+}
+a:hover {
+  color: #8d1b17;
+  text-decoration: underline;
+}
+.logo {
+  position: absolute;
+  left: 50%;
+  margin-left: -200px;
+  top: 80px;
+}
+.main {
+  position: absolute;
+  left: 50%;
+  margin-left: -180px;
+  top: 420px;
+  width: 400px;
+}
+.main p {
+  font-size: 15px;
+}
